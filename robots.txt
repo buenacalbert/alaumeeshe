@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oojooliemo.tomasp.net/sitemap.xml
